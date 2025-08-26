@@ -1,6 +1,8 @@
 # SimplyClick
 [SimplyClick](https://github.com/inviscow/SimplyClick) - A basic, open-source autoclicker made in C#.
 
+![Simply click screenshot](https://github.com/inviscow/Lab/blob/main/Assets/simplyclickscreenshot.png?raw=true)
+
 ## Features
 - Open-source and free
 - Randomized delay
